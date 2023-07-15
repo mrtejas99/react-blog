@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction to React: Building Dynamic Web Applications"
-date: 2023-07-15
+date: 2023-07-10
 categories: [Web Development, React, JavaScript]
 ---
 
